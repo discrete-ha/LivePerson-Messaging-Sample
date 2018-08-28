@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723233607869",
+    "firebase_url": "https://john-dev-sup-sample.firebaseio.com",
+    "project_id": "john-dev-sup-sample",
+    "storage_bucket": "john-dev-sup-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723233607869:android:918f5bd76fb173f1",
+        "android_client_info": {
+          "package_name": "john.dev.liveperson.com.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723233607869-i2akrien8iau9p8ua6lk3iol7c17ogn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQixQnZp7zaYS3Y08brWMM2kvNvMyIMJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
