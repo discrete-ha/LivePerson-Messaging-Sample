@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LivePerson</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_expire">Expire time (Minutes)</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_show_window">Window</string>
+    <string name="action_show_fragment">Fragment</string>
+
+    <string name="msg_login_success">Login</string>
+
+    <string name="error_invalid_name">This name is too short</string>
+    <string name="error_invalid_expire">Expire value is not valid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login_failed">Login failed</string>
+    <string name="error_initializing">init failed</string>
+
+    <string name="ok">OK</string>
+
+    <string name="account_number">47740947</string>
+    <string name="authentication_host">https://ts-japan-authentication.herokuapp.com/auth</string>
+
+    <string name="initializing">initializing...</string>
+    <string name="loggingout">logging out...</string>
+
+    <string name="close_button">close</string>
+
+    <string name="label_name">Name :</string>
+    <string name="label_sdk_version">SDK Version :</string>
+    <string name="label_account">Account :</string>
+
+</resources>
